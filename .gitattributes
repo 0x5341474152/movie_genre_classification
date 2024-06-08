@@ -1,0 +1,2 @@
+Genre_Classification_Dataset/*
+ filter=lfs diff=lfs merge=lfs -text
